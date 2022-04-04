@@ -1,0 +1,21 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2em;
+}
+
+.Containers{
+  display: flex;
+  gap: 2em;
+}
+
+.TransactionContiner{
+  flex-direction: column;
+}
+
+.InputFields{
+  padding: 10px;
+}
